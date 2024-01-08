@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.14.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.13.0...v1.14.0) (2024-01-08)
+
+
+### :sparkles: Features
+
+* add support for German language ([13974fe](https://github.com/hugo-sid/hugo-blog-awesome/commit/13974fed8eccebdcf479a6f6987a817f09af4221))
+
+
+### :construction_worker: CI/CD
+
+* run stale.yml workflow manually ([4c79934](https://github.com/hugo-sid/hugo-blog-awesome/commit/4c799345b5c8daa186baf5ce22a306d5b84ca9c4))
+
 ## [1.13.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.12.0...v1.13.0) (2023-12-22)
 
 
